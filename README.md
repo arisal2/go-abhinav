@@ -11,3 +11,4 @@ Learning the Go programming language
 6. If/Else
 7. Switch
 8. Arrays
+9. Slices
