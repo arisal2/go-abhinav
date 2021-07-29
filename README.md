@@ -4,3 +4,5 @@ Learning the Go programming language
 # Topics
  
 1. Hello World
+2. Variables
+
