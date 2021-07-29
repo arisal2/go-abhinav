@@ -7,3 +7,4 @@ Learning the Go programming language
 2. Variables
 3. Values
 4. Constants
+5. Loops - For
