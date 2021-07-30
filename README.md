@@ -22,3 +22,4 @@ Learning the Go programming language
 14. Variadic Functions
 15. Closuers
 16. Recursion
+17. Pointers
