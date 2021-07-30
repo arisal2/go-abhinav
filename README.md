@@ -1,6 +1,9 @@
 # go-abhinav
 Learning the Go programming language
 
+# General
+[Array vs Slice](docs/ARRAY_VS_SLICE.md)
+
 # Topics
  
 1. Hello World
@@ -15,3 +18,4 @@ Learning the Go programming language
 10. Maps
 11. Range
 12. Functions
+13. Multiple Return Values
