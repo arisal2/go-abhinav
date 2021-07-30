@@ -14,3 +14,4 @@ Learning the Go programming language
 9. Slices
 10. Maps
 11. Range
+12. Functions
