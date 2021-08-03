@@ -24,3 +24,4 @@ Learning the Go programming language
 16. Recursion
 17. Pointers
 18. Structs
+19. Methods
