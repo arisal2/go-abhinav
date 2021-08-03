@@ -16,7 +16,8 @@ func (r rect) perim() int {
 }
 
 /* Go automatically handles conversion between values and pointers for method calls. 
-You may want to use a pointer receiver type to avoid copying on method calls or to allow the method to mutate the receiving struct. */
+You may want to use a pointer receiver type to avoid copying 
+on method calls or to allow the method to mutate the receiving struct. */
 func main() {
 	r := rect{width: 10, height: 5}
 	fmt.Println("area:", r.area())

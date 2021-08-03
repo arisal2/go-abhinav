@@ -26,3 +26,4 @@ Learning the Go programming language
 18. Structs
 19. Methods
 20. Interfaces
+21. Errors
