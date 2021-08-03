@@ -25,3 +25,4 @@ Learning the Go programming language
 17. Pointers
 18. Structs
 19. Methods
+20. Interfaces
