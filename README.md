@@ -28,3 +28,4 @@ Learning the Go programming language
 20. Interfaces
 21. Errors
 22. Routines
+23. Channels
